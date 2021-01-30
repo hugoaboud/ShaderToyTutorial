@@ -15,10 +15,9 @@
 // "fragCoord" is the pixel coordinate (xy), fragColor is the resulting pixel color (rgba). It's declared as "out", so
 // you should assign a value to it at some time.
 
-// HOW TO READ THIS DOC
+// HOW TO READ THIS TUTORIAL
 //
-// I suggest you copy the whole document into a text editor of your preference (I suggest Atom), read it from there,
-// then copy each example separately into ShaderToy, and follow it's steps, uncommenting some lines.
+// Copy each example separately into ShaderToy and follow it's steps, uncommenting some lines when noted.
 // Also, go ahead and try modifying each example.
 
 /**
